@@ -14,11 +14,10 @@ function fibonacciSequence(n) {
     return sequence;
 }
 
-/* Example usage */
 
 
 const n = 10; 
-/* Change this value to generate more or fewer numbers */
+/* number term of Fibonacci */
 
 
 console.log(`Fibonacci sequence of ${n} terms:`, fibonacciSequence(n));
